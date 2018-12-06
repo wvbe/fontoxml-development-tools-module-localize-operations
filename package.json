@@ -1,0 +1,9 @@
+{
+  "name": "fontoxml-development-tools-module-localize-operations",
+  "description": "An FDT module to quickly change your operation labels and descriptions into localizable strings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "globby": "^6.1.0"
+  }
+}
